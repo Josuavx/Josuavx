@@ -1,8 +1,8 @@
-## Olá mundo, sou Josué Avelino
+<h1 align="center">Olá mundo, eu sou Josué 👋</h1>
 
 
-- 🌱 Atualmente estou cursando técnico em Desenvolvimento de sistemas e estudando a área de Dados
-
+★ 🌱 Atualmente estou cursando o curso superior Tecnólogo em Análise e Desenvolvimento de Sistemas
+★ 🚀Estudando Python, Flask, Django
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
