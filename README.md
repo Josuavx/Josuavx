@@ -1,7 +1,7 @@
 <h1 align="center">Olá mundo, eu sou Josué 👋</h1>
 
 
-★ 🌱 Atualmente estou cursando o curso superior Tecnólogo em Análise e Desenvolvimento de Sistemas
+★ 🌱 Atualmente estou cursando o curso superior Tecnólogo em Análise e Desenvolvimento de Sistemas <br>
 ★ 🚀Estudando Python, Flask, Django
 
 <div style="display: inline_block"><br>
