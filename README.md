@@ -4,11 +4,11 @@
 ★ 🌱 Atualmente estou cursando o curso superior Tecnólogo em Análise e Desenvolvimento de Sistemas <br>
 ★ 🚀Estudando atualmente Java, Springboot, Linux, AWS.
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
   
 ##
