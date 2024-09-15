@@ -1,8 +1,10 @@
 <h1 align="center">Olá mundo, eu sou Josué 👋</h1>
 
+Bem-vindo ao meu GitHub! Aqui você encontrará projetos relacionados às minhas atividades acadêmicas e estudos contínuos na área de desenvolvimento de software.
 
-★ 🌱 Atualmente estou cursando o curso superior Tecnólogo em Análise e Desenvolvimento de Sistemas <br>
-★ 🚀Estudando atualmente Java, Springboot, Linux, AWS.
+Meu foco principal é em automação de processos com Python e desenvolvimento back-end. Também trabalho com integrações de sistemas através de APIs e manipulação de bancos de dados SQL Server. Meus repositórios refletem essa diversidade, incluindo projetos de automação, scripts para integrações, sistemas back-end e aplicações criadas durante meu curso de Análise e Desenvolvimento de Sistemas.
+
+Explore meus projetos e veja como estou aplicando o que aprendo tanto em automações quanto em soluções robustas para o back-end.
 
 <div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
